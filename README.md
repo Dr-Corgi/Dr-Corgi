@@ -1,23 +1,9 @@
 <div align="center">
   
-  # 👋 你好，我是 Dr-Corgi！
-  
-  <img src="https://komarev.com/ghpvc/?username=Dr-Corgi&label=访问量&color=0e75b6&style=flat" alt="profile views" />
-  
+  # 👋 你好
+
 </div>
 
----
-
-## 🚀 关于我
-
-我是一名专注于 **AI 和机器学习** 的开发者，热衷于探索前沿技术，将创新想法变为现实。
-
-- 🔭 目前正在研究 **AI/ML 项目**
-- 🌱 持续学习新算法和框架
-- 💡 研究方向：深度学习、自然语言处理、计算机视觉
-- 📫 欢迎交流合作！
-
----
 
 ## 📝 近期论文
 
@@ -62,23 +48,3 @@
 - 🥈 **奖项名称** - 比赛/活动 (年份)
 - 🏅 **奖项名称** - 比赛/活动 (年份)
 
----
-
-## 🤝 联系我
-
-<div align="center">
-  
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/邮箱-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://github.com/Dr-Corgi">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" />
-</div>
