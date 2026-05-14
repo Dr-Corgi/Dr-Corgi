@@ -2,8 +2,6 @@
   
   # 👋 你好，我是 Dr-Corgi！
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=AI+%26+机器学习开发者;热爱深度学习;永远在学习新事物" alt="Typing SVG" />
-  
   <img src="https://komarev.com/ghpvc/?username=Dr-Corgi&label=访问量&color=0e75b6&style=flat" alt="profile views" />
   
 </div>
